@@ -1,2 +1,2 @@
 #!/bin/sh
-eval "git log -- prety = %H"
+git log -5 -- prety = %H
