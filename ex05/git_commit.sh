@@ -1,3 +1,2 @@
 #!/bin/sh
-
-echo "Hello, World"
+eval "git log -- prety = %H"
